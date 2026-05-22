@@ -1,0 +1,7 @@
+{
+  "run_timestamp": "2026-05-23T01:40:06.658212",
+  "avg_faithfulness": 0.9183333333333333,
+  "p50_latency_ms": 4261,
+  "p95_latency_ms": 7842,
+  "zero_result_rate": 0.0
+}

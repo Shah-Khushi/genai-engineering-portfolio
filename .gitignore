@@ -3,3 +3,5 @@ my_notes/
 venv\
 \chroma_db
 \data
+\__pycache__
+\.deepeval
